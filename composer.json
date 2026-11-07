@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hijri-php-ramadan-imsakiyah-gen",
+  "description": "Full 30-Day Ramadan Imsakiyah & Suhoor/Iftar Timetable Generator (مولد إمساكية شهر رمضان المبارك الفلكية لأي مدينة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
